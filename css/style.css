@@ -1,0 +1,27 @@
+.hero {
+    background-image: url(../images/banner.jpg);
+    text-align: center;
+    display: flex;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000000ad;
+    background-blend-mode: overlay;
+    height: 65vh;
+}
+#age {
+    width: 300px;
+    margin: 0 auto;
+    border: 2px solid #000;
+}
+section{
+    padding:50px 0;
+}
+div#loom-companion-mv3 {
+    display: none;
+}
+#msg{
+    font-size: 20px;
+}
